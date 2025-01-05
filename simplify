@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teknologi E-SIM</title>
+    <style>
+        #blog {
+            margin: 20px auto;
+            max-width: 800px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        #blog h2 {
+            color: #001f3f;
+        }
+        #blog article {
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #ccc;
+        }
+        #blog article h3 {
+            color: #0078d4;
+            font-size: 1.2rem;
+        }
+        #blog article p {
+            font-size: 1rem;
+            line-height: 1.6;
+        }
+        #blog article a {
+            color: #0078d4;
+            text-decoration: none;
+        }
+        #blog article a:hover {
+            text-decoration: underline;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: url('https://www.lot.com/content/dam/lot/lot-com/graphics/e-sim-card/e-sim-karta-red-v1432017670.coreimg.jpg/1723630346872/e-sim-karta-red-v1432017670.jpg') no-repeat center center/cover;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+        }
+        header h1 {
+            color: #001f3f;
+            font-size: 2.5rem;
+        }
+        header p {
+            font-size: 1.2rem;
+            color: #001f3f;
+        }
+        nav {
+            background: #333;
+            color: white;
+            padding: 0.5rem;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #001f3f;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px 0;
+        }
+        .social-buttons {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .social-buttons a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+        .facebook {
+            background: #3b5998;
+        }
+        .twitter {
+            background: #00acee;
+        }
+        .linkedin {
+            background: #0077b5;
+        }
+        .form-container {
+            margin-top: 20px;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            background: #0078d4;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Teknologi E-SIM Simplify</h1>
+    <p>Inovasi dalam Sistem Komunikasi Digital</p>
+</header>
+
+<nav>
+    <a href="#tentang">Tentang</a>
+    <a href="#visi-misi">Visi dan Misi</a>
+    <a href="#inovasi">Inovasi</a>
+    <a href="#manfaat">Manfaat</a>
+    <a href="#kontak">Kontak</a>
+</nav>
+
+<section id="tentang">
+    <h2>Apa Itu E-SIM Simplify?</h2>
+    <p>
+        E-SIM Simplify adalah pelopor dalam teknologi E-SIM yang berfokus pada menghadirkan masa depan konektivitas yang lebih cerdas dan efisien. 
+        Dengan memanfaatkan teknologi E-SIM, Simplify memungkinkan perangkat di seluruh dunia untuk terhubung dengan mulus tanpa memerlukan kartu SIM fisik.
+    </p>
+    <img src="https://images.samsung.com/is/image/samsung/assets/dotcom/mobile/january/01-galaxy-esim-and-supported-network-carriers/01-multilingual-galaxy-esim-and-supported-network-carriers.png?$ORIGIN_PNG$" 
+         alt="Diagram Teknologi E-SIM">
+</section>
+
+<section id="visi-misi">
+    <h2>Visi dan Misi</h2>
+    <p><strong>Visi:</strong>Visi kami adalah menciptakan dunia yang lebih terhubung, di mana setiap perangkat – mulai dari ponsel, perangkat IoT, hingga kendaraan pintar – dapat berkomunikasi dengan efisien dan bebas hambatan. Kami percaya bahwa eSIM adalah kunci menuju masa depan yang lebih fleksibel, ramah lingkungan, dan praktis.</p>
+    <p><strong>Misi:</strong></p>
+    <ul>
+        <li>Menyediakan solusi E-SIM yang ramah pengguna dan efisien.</li>
+        <li>Mendukung perkembangan perangkat IoT untuk menciptakan dunia yang lebih terkoneksi.</li>
+        <li>Meningkatkan fleksibilitas dan kemudahan pengguna dalam memilih layanan operator.</li>
+    </ul>
+</section>
+
+<section id="inovasi">
+    <h2>Inovasi dalam Sistem Komunikasi Digital</h2>
+    <p>Teknologi E-SIM mendukung berbagai inovasi, termasuk perangkat IoT, mobil pintar, dan rumah pintar. Dengan teknologi ini, konektivitas menjadi lebih efisien dan mudah digunakan.</p>
+    <img src="https://static.toiimg.com/thumb/msid-111489791,width-1280,height-720,resizemode-4/111489791.jpg" alt="Perangkat IoT dengan Teknologi E-SIM">
+</section>
+
+<section id="manfaat">
+    <h2>Manfaat E-SIM</h2>
+    <ul>
+        <li>Fleksibilitas dalam beralih operator</li>
+        <li>Desain perangkat lebih ramping</li>
+        <li>Mendukung beberapa profil operator</li>
+    </ul>
+</section>
+
+<section id="blog">
+    <h2>Berita dan Artikel Terkini tentang E-SIM</h2>
+    <article>
+        <h3>1. Peluncuran Smartphone Baru dengan Teknologi E-SIM</h3>
+        <p>
+            Perusahaan teknologi terkemuka baru saja meluncurkan smartphone terbaru yang sepenuhnya mengandalkan E-SIM untuk konektivitas. 
+            Fitur ini memungkinkan pengguna untuk beralih operator tanpa perlu mengganti kartu fisik. 
+            <a href="https://www.cloudcomputing.id/pengetahuan-dasar/mengenal-e-sim" target="_blank">Baca Selengkapnya</a>
+        </p>
+    </article>
+    <article>
+        <h3>2. Penggunaan E-SIM di Industri IoT</h3>
+        <p>
+            Teknologi E-SIM semakin digunakan dalam perangkat IoT seperti jam pintar, kamera pintar, dan mobil terhubung. 
+            Hal ini membawa efisiensi dan fleksibilitas yang belum pernah terjadi sebelumnya.
+            <a href="https://www.cloudcomputing.id/pengetahuan-dasar/mengenal-virtual-sim#google_vignette" target="_blank">Baca Selengkapnya</a>
+        </p>
+    </article>
+    <article>
+        <h3>3. Negara-Negara yang Mendukung Teknologi E-SIM</h3>
+        <p>
+            Beberapa negara maju telah sepenuhnya mendukung E-SIM, memberikan keuntungan besar bagi pelancong internasional yang memerlukan akses data lokal dengan mudah.
+            <a href="https://www.viva.co.id/digital/digilife/1724776-negara-ini-sudah-menerapkan-esim" target="_blank">Baca Selengkapnya</a>
+        </p>
+    </article>
+</section>
+
+<section>
+    <h2>Bagikan Artikel Ini</h2>
+    <div class="social-buttons">
+        <a href="https://facebook.com" class="facebook">Facebook</a>
+        <a href="https://twitter.com" class="twitter">Twitter</a>
+        <a href="https://linkedin.com" class="linkedin">LinkedIn</a>
+    </div>
+</section>
+
+<section id="kontak">
+    <h2>Kontak Kami</h2>
+    <p>Jika Anda memiliki pertanyaan, silakan hubungi kami melalui formulir di bawah ini:</p>
+    <div class="form-container">
+        <form action="#" method="POST">
+            <label for="name">Nama:</label>
+            <input type="text" id="name" name="name" placeholder="Masukkan nama Anda" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Masukkan email Anda" required>
+            <label for="message">Pesan:</label>
+            <textarea id="message" name="message" placeholder="Tulis pesan Anda di sini..." rows="5" required></textarea>
+            <button type="submit">Kirim</button>
+        </form>
+    </div>
+</section>
+
+<section>
+    <h2>Komentar</h2>
+    <p>Tambahkan komentar Anda di bawah:</p>
+    <textarea placeholder="Tulis komentar Anda di sini..." rows="4" required></textarea>
+    <button type="submit">Kirim Komentar</button>
+</section>
+
+<footer>
+    <p>&copy; 2025 Simplify - Teknologi E-SIM. Semua Hak Dilindungi.</p>
+</footer>
+
+</body>
+</html>
